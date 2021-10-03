@@ -1,6 +1,7 @@
 # 1st Laboratory Work # 
 
 To run you must need:
+-------------------------
 1) Python 3
 2) Xming Server
 Way to run:
