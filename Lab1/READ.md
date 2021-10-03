@@ -1,5 +1,5 @@
 # 1st Laboratory Work # 
-
+> Emplemented by Tolici Constantin, FAF-193
 To run you must need:
 -------------------------
 * Python 3
