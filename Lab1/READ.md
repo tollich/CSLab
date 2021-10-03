@@ -2,8 +2,10 @@
 
 To run you must need:
 -------------------------
-1) Python 3
-2) Xming Server
+* Python 3
+* Xming Server
+
 Way to run:
-1) Run Xming Server;
-2) Run main.py
+-------------------------
+1. Run Xming Server;
+2. Run main.py
