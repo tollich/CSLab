@@ -22,6 +22,7 @@ a different one
 
 Third Lab
 ----------
-(new features)
+# Auditing a Workstation #
+## new features ##
 * Perform an audit of the workstation, using the options that were selected;
 * Output the results of the audit on screen.
