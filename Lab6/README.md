@@ -9,4 +9,4 @@ To run you must need:
 Way to run:
 -------------------------
 1. Run Xming Server;
-2. Run main.py
+2. Run sso_server.py
