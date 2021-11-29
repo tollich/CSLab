@@ -1,4 +1,4 @@
-# 2nd Laboratory Work #
+# 3rd Laboratory Work #
 > Emplemented by Tolici Constantin, FAF-193
 
 To run you must need:
