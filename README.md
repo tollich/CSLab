@@ -19,3 +19,9 @@ Second Lab
 * Select or deselect all options in one click
 * Create and save a policy that contains only the selected options under the same name or
 a different one
+
+Third Lab
+----------
+(new features)
+* Perform an audit of the workstation, using the options that were selected;
+* Output the results of the audit on screen.
