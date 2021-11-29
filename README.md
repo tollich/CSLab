@@ -34,3 +34,11 @@ Fourth Lab
 * Select the settings to be enforced (a subset of ”Failed”, or all of them);
 * Enforce the policy on at least 5 settings (edit the selected settings in your system);
 * Rollback to the system’s initial settings
+
+Fifth Lab
+----------
+# Enforcing a Policy #
+## program capabilities ##
+* Select the settings to be enforced (a subset of ”Failed”, or all of them);
+* Enforce the policy on at least 20 settings (edit the selected settings in your system);
+* Rollback to the system’s initial settings.
