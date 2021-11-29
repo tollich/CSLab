@@ -26,3 +26,11 @@ Third Lab
 ## new features ##
 * Perform an audit of the workstation, using the options that were selected;
 * Output the results of the audit on screen.
+
+Fourth Lab
+----------
+# Enforcing a Policy #
+## program capabilities ##
+* Select the settings to be enforced (a subset of ”Failed”, or all of them);
+* Enforce the policy on at least 5 settings (edit the selected settings in your system);
+* Rollback to the system’s initial settings
