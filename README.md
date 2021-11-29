@@ -42,3 +42,13 @@ Fifth Lab
 * Select the settings to be enforced (a subset of ”Failed”, or all of them);
 * Enforce the policy on at least 20 settings (edit the selected settings in your system);
 * Rollback to the system’s initial settings.
+
+Sixth Lab
+----------
+# SSO Security #
+## program capabilities ##
+* Offer user authentication via SSO using at least 3 identity providers (e.g. Facebook,
+Gmail, Twitter etc.);
+* Configure SSO integration to get as much as possible data about the end-user;
+* Output all data which was provided by the identity providers (e.g. user’s name, age,
+gender, email etc.).
